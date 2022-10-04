@@ -1,0 +1,10 @@
+{
+    "email_host": "smtp.163.com",
+    "email_port": 25,
+    "email_sender": "",
+    "email_password": "",
+    "email_receivers": [
+        "805434082@qq.com",
+        "example@164.com"
+    ]
+}
